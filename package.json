@@ -1,0 +1,22 @@
+{
+  "name": "dic.js",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A dictionary for the commandline!",
+  "main": "dic.js",
+  "scripts": {
+    "test": "node dic.js"
+  },
+  "keywords": [
+    "dict",
+    "dictionary",
+    "cmd",
+    "node"
+  ],
+  "author": "shellheim",
+  "license": "AGPL-3.0-or-later",
+  "dependencies": {
+    "readline": "^1.3.0",
+    "readline-sync": "^1.4.10"
+  }
+}
